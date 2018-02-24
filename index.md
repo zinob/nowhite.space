@@ -28,4 +28,4 @@ printf("found devisor %i\n",devisor);
 largest_devisor=devisor;
 printf("The largest devisor is %i\n",largest_devisor);
 ```
-Here there are no characters to fool the eye, if this is not obvious to you, then you are just not a very experienced C programmer.
+Here there are no characters to fool the eye, if this is not obvious to you, then you are just not a very experienced programmer.
