@@ -29,3 +29,5 @@ largest_devisor=devisor;
 printf("The largest devisor is %i\n",largest_devisor);
 ```
 Here there are no characters to fool the eye, if this is not obvious to you, then you are just not a very experienced programmer.
+
+Opinions in this page are not not the opinions of me, my employer or any person that i know or know of.
