@@ -1,4 +1,4 @@
-White space harmfull
+# White space is harmfull
 
 All to often perfectly usefull comits to open source projects are rejected because they are to "airy" or "to dense". Whoch os fWhite space harmful
 
