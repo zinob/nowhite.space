@@ -20,13 +20,13 @@ But of cause, only 3 levels of indentation is trivial to keep in your mind. So r
 Wait what? The largest divisor of 8 is 7? Of cause it is not! There are just semantically irrelevant characters placed there to fool your eyes into believing that there are blocks where there are not!
 Compare this to the much more honest whitespaceless example:
 ```
-int largest_devisor=0,devisor=0;
+int largest_divisor=0,divisor=0;
 int target=8;
-for(devisor=2;devisor<target-1;devisor++)
-if(target % devisor == 0)
-printf("found devisor %i\n",devisor);
-largest_devisor=devisor;
-printf("The largest devisor is %i\n",largest_devisor);
+for(divisor=2;divisor<target-1;divisor++)
+if(target % divisor == 0)
+printf("found divisor %i\n",divisor);
+largest_divisor=divisor;
+printf("The largest divisor is %i\n",largest_divisor);
 ```
 Here there are no characters to fool the eye, if this is not obvious to you, then you are just not a very experienced programmer.
 
