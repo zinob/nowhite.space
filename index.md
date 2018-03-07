@@ -1,7 +1,5 @@
 # White space is harmfull
 
-All to often perfectly usefull comits to open source projects are rejected because they are to "airy" or "to dense". Whoch os fWhite space harmful
-
 All to often perfectly useful commits to open source projects are rejected because they are to "airy" or "to dense". There is this notion that adding a character that often does not have any meaning but some [times](https://uvesway.wordpress.com/2013/03/11/some-whitespace-pitfalls-in-bash-programming/) [might](https://stackoverflow.com/questions/12293205/c-is-a-white-space-independent-language-exception-to-the-rule) would make code more legible. This is of cause [just as inane](http://www.linusakesson.net/programming/syntaxhighlighting/) as the idea that adding random dabs of colour to code would make it more understandable. 
 
 Linus Torvalds notes that “If you need more than three levels of indentation your code is broken and should be rewritten” which is reflected in the [Linux Coding Style](https://www.kernel.org/doc/Documentation/process/coding-style.rst).
